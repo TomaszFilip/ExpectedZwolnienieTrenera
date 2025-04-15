@@ -1,2 +1,2 @@
 # ExpectedZwolnienieTrenera
-Recommendation system based models for prediction of coach firing in Ekstraklasa football clubs
+Models for prediction of coach firing in Ekstraklasa football clubs
